@@ -1,0 +1,26 @@
+# Ignore compiled Java class files
+*.class
+
+# Ignore NetBeans build folders
+/build/
+/dist/
+/nbproject/private/
+
+# Ignore backup and temp files
+*.log
+*.tmp
+# Ignore compiled Java class files
+*.class
+
+# Ignore packaged files
+*.jar
+*.war
+
+# Ignore NetBeans build folders
+/build/
+/dist/
+/nbproject/private/
+
+# Ignore backup and temp files
+*.log
+*.tmp
